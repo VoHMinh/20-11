@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+test-results/
+playwright-report/
+*.tsbuildinfo
+artifacts/*
+!artifacts/image-generation.md
+!artifacts/content-notes.md
+.env
+.env.*
+!.env.example
